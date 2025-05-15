@@ -1,6 +1,5 @@
-<img src="https://i.giphy.com/ckr4W2ppxPBeIF8dx4.webp" />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW0zM2YwZzhwcmdmb25xZnBneGNiZ2I5aWdteWVtbGhhbnY2aDc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KHh7jLrG6gIXBTnxsp/giphy.gif" />
-
+<img src="https://i.giphy.com/ckr4W2ppxPBeIF8dx4.webp" width="300" />
+<img src="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300" />
 
 # <summary><strong>Hi there :wave: , I'm EkoRamadani!</strong></summary>
 Coding is my life,
