@@ -1,4 +1,4 @@
-<img src="[https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tjM2pwMjdrcDc4N3E0dDhkcGIwbWluemVzYnY2aDI1bTlsYXk3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif)" />
+<img src="https://i.giphy.com/ckr4W2ppxPBeIF8dx4.webp" />
 
 # <summary><strong>Hi there :wave: , I'm EkoRamadani!</strong></summary>
 Coding is my life,
