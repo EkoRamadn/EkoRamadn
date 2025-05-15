@@ -1,5 +1,5 @@
 <img src="https://i.giphy.com/ckr4W2ppxPBeIF8dx4.webp" width="300" />
-<img src="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300" />
+<!--<img src="https://media0.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="300" /> -->
 
 # <summary><strong>Hi there :wave: , I'm EkoRamadani!</strong></summary>
 Coding is my life,
