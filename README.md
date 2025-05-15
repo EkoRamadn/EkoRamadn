@@ -18,7 +18,7 @@ If you need guidance about web and coding, contact me on my social media.
     - :game_die: gaming and writing are part of me. </br>
 <p>
  
-### <summary><strong>Let's connect!</strong></summary>
+<!-- ### <summary><strong>Let's connect!</strong></summary>
 
 <a href="https://www.instagram.com/yours/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
