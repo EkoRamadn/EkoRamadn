@@ -11,6 +11,7 @@ If you need guidance about web and coding, contact me on my social media.
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
+my other GitHub account @exclnt
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
@@ -20,6 +21,7 @@ If you need guidance about web and coding, contact me on my social media.
     - :cloud: Pronouns: Bro. </br>
     - :game_die: gaming and writing are part of me. </br>
 <p>
+
  
 <!-- ### <summary><strong>Let's connect!</strong></summary>
 
